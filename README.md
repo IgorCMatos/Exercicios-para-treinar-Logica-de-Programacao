@@ -66,7 +66,6 @@ Você pode usá-lo, estudar, modificar e compartilhar livremente, desde que mant
 
 ## 👨‍💻 Autor
 
-**Igor**  
-📧 contato@exemplo.com  
-🌐 [GitHub](https://github.com/seuusuario)  
-💼 [LinkedIn](https://linkedin.com/in/seuusuario)
+**Igor**    
+🌐 [GitHub](https://github.com/IgorCMatos)  
+💼 [LinkedIn](https://linkedin.com/in/igorcoderitch)

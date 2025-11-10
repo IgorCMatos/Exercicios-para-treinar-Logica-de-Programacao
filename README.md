@@ -7,9 +7,7 @@ O objetivo é desenvolver habilidades fundamentais em estruturas de controle, op
 
 ---
 
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
 ![Linguagem](https://img.shields.io/badge/foco-lógica%20de%20programação-blue)
-![Versão](https://img.shields.io/badge/versão-1.0.0-green)
 ![Licença](https://img.shields.io/badge/licença-MIT-lightgrey)
 
 ---
